@@ -40,3 +40,5 @@ where A contains pre-temporal images, B contains post-temporal images, and OUT c
 # Visualization
 * python visualization visualization.py --ckp-paths weight-path --dataset-dir dataset-path (Note that batch-size must be 1 when using visualization.py)
 * Besides, you can adjust the parameter of full_to_color to change the color
+
+* C. Xu et al., "Cross-Attention Guided Group Aggregation Network for Cropland Change Detection," in IEEE Sensors Journal, vol. 23, no. 12, pp. 13680-13691, 15 June15, 2023, doi: 10.1109/JSEN.2023.3271391.
